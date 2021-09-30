@@ -25,16 +25,16 @@ require 'about_iteration' #done
 require 'about_blocks' #done
 require 'about_sandwich_code' #done
 require 'about_scoring_project' #done
-require 'about_classes'
-require 'about_open_classes'
-require 'about_dice_project'
-require 'about_inheritance'
-require 'about_modules'
-require 'about_scope'
-require 'about_class_methods'
-require 'about_message_passing'
+require 'about_classes' #done 
+require 'about_open_classes' #done
+require 'about_dice_project' #done
+require 'about_inheritance' #done
+require 'about_modules' #done
+require 'about_scope' #done 
+require 'about_class_methods' #done
+require 'about_message_passing' #done
+require 'about_to_str' #done
 require 'about_proxy_object_project'
-require 'about_to_str'
 in_ruby_version("jruby") do
   require 'about_java_interop'
 end
